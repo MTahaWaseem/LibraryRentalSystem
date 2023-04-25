@@ -1,0 +1,38 @@
+/* .pagination {
+    align-items: center;
+    align-self: center;
+    text-align: center;
+  } */
+  .center {
+    text-align: center;
+  }
+  
+  .pagination a {
+    color: rgb(0, 0, 0);
+    float: left;
+    padding: 8px 16px;
+    background-color: white;
+    text-decoration: none;
+  }
+
+  .page-item:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    float: left;
+    padding: 8px 16px;
+    /* background-color: red; */
+    text-decoration: none;
+  }
+  /* .page-link p {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    size: 10px;
+  } */
+
+  .page-item a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: #ddd;}

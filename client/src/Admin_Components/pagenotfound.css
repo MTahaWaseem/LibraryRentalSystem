@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500);
+
+div body { 
+  background-color: #fff; 
+  color: #fff;
+  font-size: 100%;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+}
+
+.button {
+  font-weight: 300;
+  color: #000;
+  font-size: 1.2em;
+  text-decoration: none;
+  border: 1px solid #000;
+  padding: .5em;
+  border-radius: 3px;
+  float: left;
+  margin: 6em 0 0 -155px;
+  left: 50%;
+  position: relative;
+  transition: all .3s linear;
+}
+
+.button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+div p {
+  font-size: 2em;
+  text-align: center;
+  font-weight: 100;
+}
+
+.containerlol h1 {
+  text-align: center;
+  font-size: 15em;
+  font-weight: 100;
+  text-shadow: #666 1px 1px, #666 2px 2px, #666 3px 3px, #676 4px 4px, #676 5px 5px, #676 6px 6px, #678 7px 7px, #678 8px 8px, #606061 9px 9px;
+}

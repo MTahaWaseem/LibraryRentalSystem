@@ -1,0 +1,237 @@
+.App {
+  font-family: 'Montserrat', sans-serif;
+}
+
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: 'Montserrat', sans-serif;
+
+}
+/* .App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+} */
+
+.sp{
+   margin-left: 1110px;
+  margin-bottom: 20px;
+}
+
+.inp{
+  margin-left: -33px;
+  width: 75%;
+}
+
+.cp{
+  margin-left: 1157px;
+  margin-bottom: 15px;
+}
+
+.bp{
+  margin-left: 1180px;
+  margin-bottom: 15px;
+}
+.Title{
+  margin-top: 0.75rem;
+  width: 100%;
+}
+.ISBN{
+  margin-left: 2rem;
+}
+.Author{
+  width: 100%;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+}
+.Description{
+  margin-left: 2rem;
+}
+.CID{
+  width: 76%;
+  max-width: 76%;
+  min-width: 76%;
+  /* margin-top: 2rem; */
+}
+.Quantity{
+  margin-left: 2rem;
+  /* width: 40%; */
+}
+.Price{
+  margin-top: 0.75rem;
+}
+.ISBNe {
+  margin-left: 2rem;
+  margin-top: 1.35rem;
+}
+.Authore{
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.Descriptione{
+  margin-left: 2rem;
+  margin-top: -1.4rem;
+}
+.CIDe{
+  width: 100%;
+  margin-bottom: 1rem;
+  /* margin-top: 2rem; */
+}
+.Quantitye{
+  margin-left: 2rem;
+  margin-top: -1.45rem;
+}
+.bookimg2{
+  /* display: flex; */
+  /* width: 60%; */
+  width: 80; 
+  height: 120;
+  margin-left: auto;
+  margin-right: auto;
+}
+.vcm{
+  margin-left: 1147px;
+  margin-bottom: 15px;
+}
+.URL{
+  margin-left: 2rem;
+}
+.profileimg{
+  width: 14rem;
+  height: 14rem;
+  margin-left: 5rem;
+  margin-top: 2.2rem;
+  /* margin-right: auto; */
+}
+
+.Manager{
+  margin-top: 6rem;
+  margin-left: 11rem;
+}
+
+.Address{
+  width: 100%;
+  margin-top: 1rem;
+   margin-bottom: 1rem;
+  /* margin-right: auto; */
+}
+.Contact{
+  margin-left: -14rem;
+  margin-top: 0rem;
+}
+.mprof{
+  margin-left: 30px;
+}
+.lname{
+  margin: auto;
+  margin-top: 1.5rem;
+}
+.changepass{
+  margin-top: 2rem;
+  margin-left: 0.7rem;
+}
+.currpass{
+  width : 100%;
+}
+.newpass{
+  width : 100%;
+}
+.cnpass{
+  width : 100%;
+  margin-left: 15.75rem;
+}
+.error{
+  margin-top: 2rem;
+  margin-left:auto;
+}
+.updatepass{
+  margin-left: auto;
+
+}
+
+.homesearch{
+max-width: 60%;
+margin-top: 0rem;
+margin-bottom: 50rem;
+}
+.bookimg{
+  /* width: 24rem;
+  height: 32rem; */
+  width: 350px;
+  height: 500px;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  /* margin-right: auto; */
+}
+.booktitle{
+  /* margin-left: -10rem; */
+}
+.bookauth{
+  /* margin-top: -28rem;
+  margin-left: 9rem;
+  min-width: 100%; */
+}
+.bookde{
+  /* margin-top: -20rem;
+  margin-left: -5rem; */
+}
+.bookdesc{
+  /* margin-top: -47rem; */
+  /* margin-left: -10.5rem;
+  width: auto; */
+}
+.bookprice{
+  /* margin-top: -47rem; */
+  /* margin-left: -10.5rem;
+  width: auto; */
+  /* margin: auto; */
+  align-self: flex-end;
+  /* align-self: flex-end; */
+}
+
+/* .h2{
+  /* margin-top: -47rem; */
+  /* margin-left: -10.5rem;
+  width: auto; */
+  /* margin: auto; */
+  /* text-align: right; */
+  /* align-self: flex-end; */
+.cart{
+  margin-left: -15rem;
+  margin-right: 4rem;
+}
+
+.cquantity{
+  margin-left: 3rem;
+}
+.add{
+  margin-left: 90rem;
+}
+.myorders{
+  margin-left: 3rem;
+}
+.myreviews{
+  margin-left: 8rem;
+}
+.Subject{
+  margin-left: 1rem;
+}
+.ord{
+margin-left: 70rem;
+}

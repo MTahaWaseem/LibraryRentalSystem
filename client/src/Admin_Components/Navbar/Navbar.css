@@ -1,0 +1,102 @@
+.NavbarItems{
+    /* background: linear-gradient(90deg, #2193b0 0%, #2193b0); */
+    background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+    /* background: black; */
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.navbar-logo{
+    color: #fff;
+    justify-self: start;
+    /* margin-left: 0px; */
+    cursor: pointer;
+}
+.navbar-logo :hover{
+    color: #666;
+    
+}
+
+.fa-react{
+    margin-left: 0.5rem;
+    font-size: 1.6rem;
+}
+
+.nav-menu{
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    grid-gap: 10px;
+    padding-left: 100px;
+    list-style: none;
+    
+    text-align: center;
+    width: 67vw;
+
+    justify-content: center;
+    margin-right: 1.5rem;
+}
+.nav-menu-active{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    grid-gap: 10px;
+    padding-left: 100px;
+    list-style: none;
+    color: #666;
+    text-align: center;
+    width: 67vw;
+
+    justify-content: center;
+    margin-right: 1.5rem;
+}
+
+.nav-menu-right{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 15px;
+    list-style: none;
+    text-align: center;
+    justify-content: end;
+}
+
+a.nav-links{
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    padding-top: 17px;
+    
+    
+}
+.nav-links:active{
+    color: #666;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+.nav-links:hover {
+
+    color: #666;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
+
+.fa-bars {
+    color: #fff;
+}
+
+.menu-icon{
+    display: none;
+}
+
+.NavbarhomeItems{
+    /* background: linear-gradient(90deg, #2193b0 0%, #2193b0); */
+    background: linear-gradient(90deg, #7192df 0%, #b399dd 100%);
+    /* background: black; */
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
